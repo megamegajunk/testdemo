@@ -1,9 +1,9 @@
 package demofordevops1;
 
-public class test {
+public class test3 {
 
 	public static void main(String[] args) {
-		System.out.println("11223344");
+		System.out.println("112233");
 	}
 
 }
